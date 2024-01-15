@@ -1,0 +1,96 @@
+.navMenu {
+  background-color: #5a5656;
+  text-decoration: none;
+  padding: 1rem;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.814);
+  
+}
+.navMenu-ul li {
+  display: inline-flex;
+  list-style: none;
+  font-size: 1.4rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.iPhone14 {
+  color: #000000;
+  text-align: center;
+  font-size: 3rem;
+font-family:'Times New Roman', Times, serif;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.iPhone14-p{
+    color: #696565;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+.satis-tarihi{
+    color: #696565;
+    text-align: center;
+    font-size: 1.4rem;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;}
+    
+    .linkler{
+        color: #696565;
+        text-align: center;
+        font-size: 1.4rem;
+        font-family:'Times New Roman', Times, serif;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        
+    }
+    
+    
+    .iphone14-img {
+        text-align: center; /* Center horizontally */
+        margin: 1rem auto;   /* Add margin for spacing and center vertically using auto margins */
+        display: block;      /* Ensure the image is a block element */
+      }
+      
+      /* Additional styling if needed */
+      .iphone14-img img {
+        max-width: 100%;     /* Ensures the image doesn't exceed its original size */
+        height: auto;        /* Maintains the image's aspect ratio */
+      }
+      .navMenu-ul {
+        padding: 0; /* Padding'i sıfırla */
+        margin: 0; /* Margin'i sıfırla */
+      }
+      .bg{
+        background-color: #ddddddd8;
+      }
+
+      .fa-brands{
+        color: white;
+        
+      }
+      .navMenu-ul a {
+        color: rgba(255, 255, 255, 0.814);
+      }
+      
+      /* Styling for visited links */
+      .navMenu-ul a:visited {
+        color: rgba(255, 255, 255, 0.814);
+      }
+      
